@@ -1,4 +1,4 @@
-# 🛡️ Firewall Manager
+# Firewall Manager
 
 Centrally manage firewall rules across accounts with AWS Firewall Manager.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series.
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000097-FirewallManager/)**
+**[Start the workshop](https://vanhoangkha.github.io/000097-FirewallManager/)**
 
 ## Prerequisites
 
